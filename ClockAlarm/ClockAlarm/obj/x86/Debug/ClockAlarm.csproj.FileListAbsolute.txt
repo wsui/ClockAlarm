@@ -1,0 +1,11 @@
+C:\Users\WENS\documents\visual studio 2010\Projects\ClockAlarm\ClockAlarm\bin\Debug\ClockAlarm.exe
+C:\Users\WENS\documents\visual studio 2010\Projects\ClockAlarm\ClockAlarm\bin\Debug\ClockAlarm.pdb
+C:\Users\WENS\documents\visual studio 2010\Projects\ClockAlarm\ClockAlarm\bin\Debug\Interop.TaskScheduler.dll
+C:\Users\WENS\documents\visual studio 2010\Projects\ClockAlarm\ClockAlarm\obj\x86\Debug\Interop.TaskScheduler.dll
+C:\Users\WENS\documents\visual studio 2010\Projects\ClockAlarm\ClockAlarm\obj\x86\Debug\ClockAlarm.csproj.ResolveComReference.cache
+C:\Users\WENS\documents\visual studio 2010\Projects\ClockAlarm\ClockAlarm\obj\x86\Debug\ClockAlarm.Form1.resources
+C:\Users\WENS\documents\visual studio 2010\Projects\ClockAlarm\ClockAlarm\obj\x86\Debug\ClockAlarm.Properties.Resources.resources
+C:\Users\WENS\documents\visual studio 2010\Projects\ClockAlarm\ClockAlarm\obj\x86\Debug\ClockAlarm.SetTimeForm.resources
+C:\Users\WENS\documents\visual studio 2010\Projects\ClockAlarm\ClockAlarm\obj\x86\Debug\ClockAlarm.csproj.GenerateResource.Cache
+C:\Users\WENS\documents\visual studio 2010\Projects\ClockAlarm\ClockAlarm\obj\x86\Debug\ClockAlarm.exe
+C:\Users\WENS\documents\visual studio 2010\Projects\ClockAlarm\ClockAlarm\obj\x86\Debug\ClockAlarm.pdb
